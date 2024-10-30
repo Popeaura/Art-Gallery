@@ -4,3 +4,11 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    background-color: #ebeae9;
+    margin: 1rem;
+}
+
+html{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
