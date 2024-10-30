@@ -32,3 +32,15 @@ li a {
    text-decoration: none; 
    color: black;
 }
+
+nav .burger{
+    margin-right: 5rem;
+    cursor: pointer;
+}
+
+nav .burger span{
+    height: 4px;
+    border: 2px solid black;
+    margin: 4px;
+    background-color: black;
+}
