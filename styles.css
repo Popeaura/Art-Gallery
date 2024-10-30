@@ -27,3 +27,8 @@ nav ul{
     margin-left: 5rem;
     list-style: none;
 }
+
+li a {
+   text-decoration: none; 
+   color: black;
+}
