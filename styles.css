@@ -82,3 +82,10 @@ main{
     justify-content: center;
     margin: 40px;
 }
+
+main .img{
+    width: 40%;
+    margin: 10px;
+}
+
+/*main end */
