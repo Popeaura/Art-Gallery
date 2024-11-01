@@ -66,8 +66,19 @@ header{
 }
 
 .bg-gray{
-    background: rgb(53,53,53);
+    background: rgb(97,97,97);
     color: #fff;
     padding: 2px 10px;
     font-weight: bold;
+}
+
+/*header End*/
+
+/*main start */
+main{
+    margin: o 4rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 40px;
 }
