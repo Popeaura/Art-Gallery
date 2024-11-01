@@ -51,3 +51,15 @@ nav .burger span{
 header{
     margin: 6rem;
 }
+
+.main-headings{
+    width: 50%;
+    font-size: 3rem;
+}
+
+.primary-headings{
+    width: 50%;
+    margin-top: 3rem;
+    font-size: 1.5rem;
+    line-height:30px ;
+}
