@@ -125,7 +125,6 @@ footer{
     height: 50vh;
     display: flex;
     flex-wrap: wrap;
-    flex-direction: column;
     justify-content: space-around;
     align-items: center;
     color: #fff;
