@@ -125,6 +125,7 @@ footer{
     height: 50vh;
     display: flex;
     flex-wrap: wrap;
+    flex-direction: column;
     justify-content: space-around;
     align-items: center;
     color: #fff;
@@ -139,5 +140,7 @@ footer .logo-container h1 {
 }
 
 footer .logo-container p {
-    
+    max-width: 400px;
+    font-family: sans-serif;
+    line-height: 25px;
 }
