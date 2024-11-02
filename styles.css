@@ -145,6 +145,10 @@ footer .logo-container p {
 }
 
 footer .about-company{
-    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+
 }
 
