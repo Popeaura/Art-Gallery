@@ -118,3 +118,13 @@ main .img{
 }
 
 /*Section -three end*/
+
+/*footer start */
+footer{
+    margin-top: 10rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+
+}
