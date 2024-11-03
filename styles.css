@@ -5,8 +5,13 @@
     box-sizing: border-box;
 }
 body{
-    background-color: #ebeae9;
+    background-color: rgb(144, 195, 200);
     margin: 1rem;
+}
+
+.wrapper-container{
+    background-color: #ebeae9;
+
 }
 
 html{
@@ -155,6 +160,40 @@ footer .about-company{
 footer .about-company .container{
 margin-right: 40px;
 margin-top: 20px;
+
+}
+
+.about-company .container h1{
+    margin-bottom: 50px;
+
+}
+.about-company .container p{
+    font-family: sans-serif;
+    margin-bottom: 20px;
+}
+/*project end*/
+/*Responsiveness*/
+@media screen  and (max-width:740px){
+    header .main-headings {
+        width: 100%;
+
+    }
+    header.primary-headings{
+        width: 100%;
+        font-size: 1.5rem;
+    }
+
+    .section-three .main-headings{
+        width: 100%;
+    }
+
+    .section-three .primary-headings{
+        width: 100%;
+        font-size: 1.5rem;
+    }
+    .section-three img{
+        margin: ;
+    }
 
 }
 
